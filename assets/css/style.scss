@@ -3,28 +3,84 @@
 
 @import "{{ site.theme }}";
 
-body { background: #fbfaf7; color: #1f1d1a; }
-.markdown-body { max-width: 860px; margin: 0 auto; padding: 20px 16px 48px; font-size: 15px; line-height: 1.5; }
-.markdown-body h1 { border-bottom: 0; margin: .4em 0 .1em; color: #8f2d2d; font-size: 1.9em; }
-.markdown-body h1 + p { color: #6d655a; margin-bottom: 12px; }
-.markdown-body h2 { border-bottom: 2px solid #8f2d2d; color: #8f2d2d; margin-top: 1.8em; padding-bottom: .2em; }
-.markdown-body h3 { margin-top: 1.4em; }
-.markdown-body a { color: #8f2d2d; }
-.markdown-body img { max-width: 100%; }
-.markdown-body img.hero { display: block; width: 100%; height: 220px; object-fit: cover; border-radius: 10px; margin: 8px 0 12px; }
-.markdown-body .pics { display: flex; gap: 8px; margin: 8px 0 12px; }
-.markdown-body .pics img { width: 50%; height: 220px; object-fit: cover; border-radius: 10px; }
-.markdown-body table { display: table; width: 100%; font-size: 14px; margin-bottom: 12px; }
-.markdown-body table thead:has(th:first-child:empty) { display: none; }
-.markdown-body table th, .markdown-body table td { border-color: #e4ddd1; vertical-align: top; padding: 6px 10px; }
-.markdown-body table th { background: #f1ece3; }
-.markdown-body table tr { background: #fff; }
-.markdown-body table tr:nth-child(2n) { background: #faf7f1; }
-.markdown-body table td:first-child { white-space: nowrap; font-weight: 600; font-variant-numeric: tabular-nums; }
-.markdown-body table td strong a { display: inline-block; white-space: nowrap; background: #8f2d2d; color: #fff; padding: 2px 10px; border-radius: 12px; font-size: 13px; text-decoration: none; }
+$ivory: #fbf7f2;
+$ink: #2b2522;
+$muted: #7a6f66;
+$wine: #7a1f2b;
+$gold: #b8914a;
+$line: #eadfcf;
+$serif: "Cormorant Garamond", Georgia, serif;
+$sans: "Inter", -apple-system, "Segoe UI", sans-serif;
+
+body { background: $ivory; color: $ink; }
+.markdown-body {
+  max-width: 760px; margin: 0 auto !important; padding: 20px 16px 56px !important;
+  font-family: $sans; font-size: 15px; line-height: 1.5; color: $ink;
+}
+.markdown-body a { color: $wine; text-decoration: none; border-bottom: 1px dotted rgba(122,31,43,.4); }
+.markdown-body a:hover { border-bottom-style: solid; }
+.markdown-body .anchorjs-link { display: none; }
+
+/* Titelbild */
+.markdown-body .cover { position: relative; border-radius: 18px; overflow: hidden; box-shadow: 0 10px 30px rgba(60,30,20,.18); }
+.markdown-body .cover img { display: block; width: 100%; height: 340px; object-fit: cover; }
+.markdown-body .cover::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(20,10,10,0) 20%, rgba(20,10,10,.75) 100%); }
+.markdown-body .cover-text { text-shadow: 0 2px 12px rgba(0,0,0,.55); position: absolute; left: 0; right: 0; bottom: 22px; text-align: center; z-index: 1; color: #fff; }
+.markdown-body .cover-text p { margin: 0; }
+.markdown-body .cover .kicker { color: #f1d9a6; }
+.markdown-body .cover-title { font-family: $serif; font-weight: 600; font-size: 64px; line-height: 1; letter-spacing: .02em; }
+.markdown-body .cover-date { font-family: $serif; font-style: italic; font-size: 22px; margin-top: 4px !important; }
+.markdown-body .tagline { text-align: center; font-family: $serif; font-size: 20px; color: $muted; margin: 18px 0 8px; }
+
+/* Überschriften */
+.markdown-body h2 {
+  font-family: $serif; font-weight: 600; font-size: 34px; color: $wine; text-align: center;
+  border: 0; margin: 56px 0 0; padding: 0;
+}
+.markdown-body h2::before { content: "✦"; display: block; font-size: 14px; color: $gold; margin-bottom: 10px; }
+.markdown-body h3 { font-family: $serif; font-weight: 600; font-size: 24px; color: $wine; margin: 28px 0 8px; }
+.markdown-body .kicker {
+  text-align: center; font-size: 11px; font-weight: 600; letter-spacing: .22em; text-transform: uppercase;
+  color: $gold; margin: 4px 0 16px;
+}
+.markdown-body p > strong:only-child { font-family: $serif; font-size: 19px; color: $wine; }
+
+/* Bilder */
+.markdown-body img { max-width: 100%; background: transparent; }
+.markdown-body img.hero { display: block; width: 100%; height: 220px; object-fit: cover; border-radius: 14px; margin: 8px 0 16px; box-shadow: 0 6px 18px rgba(60,30,20,.14); }
+.markdown-body .pics { display: flex; gap: 10px; margin: 8px 0 16px; }
+.markdown-body .pics img { width: 50%; height: 220px; object-fit: cover; border-radius: 14px; box-shadow: 0 6px 18px rgba(60,30,20,.14); }
+
+/* Tabellen als Karten */
+.markdown-body table {
+  display: table; width: 100%; font-size: 14px; margin: 0 0 16px;
+  border-collapse: separate; border-spacing: 0; background: #fff;
+  border: 1px solid $line; border-radius: 14px; overflow: hidden;
+  box-shadow: 0 2px 10px rgba(60,30,20,.05);
+}
+.markdown-body table th, .markdown-body table td { border: 0; border-bottom: 1px solid $line; padding: 9px 12px; vertical-align: top; }
+.markdown-body table tr:last-child td { border-bottom: 0; }
+.markdown-body table td { overflow-wrap: anywhere; hyphens: auto; -webkit-hyphens: auto; }
+.markdown-body table tr, .markdown-body table tr:nth-child(2n) { background: transparent; }
+.markdown-body table th {
+  background: #f6efe4; font-size: 10.5px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: $muted; text-align: left;
+}
+.markdown-body table td:first-child { white-space: nowrap; font-family: $serif; font-weight: 600; font-size: 17px; color: $wine; font-variant-numeric: lining-nums; }
+.markdown-body table td strong a {
+  display: inline-block; white-space: nowrap; background: $wine; color: #fff; border: 0;
+  padding: 3px 12px; border-radius: 999px; font-size: 12px; font-weight: 500; letter-spacing: .02em;
+}
+.markdown-body table td strong a:hover { background: $gold; }
+.markdown-body sub { display: block; text-align: center; color: $muted; margin-top: 40px; }
+
 @media (max-width: 600px) {
+  .markdown-body .cover img { height: 260px; }
+  .markdown-body .cover-title { font-size: 52px; }
+  .markdown-body h2 { font-size: 28px; margin-top: 44px; }
   .markdown-body img.hero, .markdown-body .pics img { height: 160px; }
   .markdown-body table { font-size: 13px; }
-  .markdown-body table th, .markdown-body table td { padding: 5px 6px; }
-  .markdown-body table td strong a { padding: 2px 7px; font-size: 12px; }
+  .markdown-body table th, .markdown-body table td { padding: 7px 7px; }
+  .markdown-body table td:first-child { font-size: 15px; }
+  .markdown-body table td strong a { padding: 2px 7px; font-size: 11px; }
+  .markdown-body table th:last-child, .markdown-body table td:last-child { padding-left: 2px; }
 }

@@ -3,13 +3,20 @@ title: Wien · 18.–20. Dezember 2026
 permalink: /
 ---
 
-# Wien · 18.–20. Dezember 2026
+<div class="cover">
+  <img src="img/graben-advent.jpg" alt="Weihnachtsbeleuchtung am Graben">
+  <div class="cover-text">
+    <p class="kicker">Ein Winterwochenende</p>
+    <p class="cover-title">Wien</p>
+    <p class="cover-date">18.–20. Dezember 2026</p>
+  </div>
+</div>
 
-Weihnachtsmärkte · *Die Physiker*, Premiere im Burgtheater
-
-<img class="hero" src="img/graben-advent.jpg" alt="Weihnachtsbeleuchtung am Graben">
+<p class="tagline">Weihnachtsmärkte · <i>Die Physiker</i> im Burgtheater</p>
 
 ## Freitag, 18. Dezember
+
+<p class="kicker">Märkte und Lichter</p>
 
 <img class="hero" src="img/rathausplatz.jpg" alt="Weihnachtsmarkt vor dem Wiener Rathaus">
 
@@ -24,6 +31,8 @@ Weihnachtsmärkte · *Die Physiker*, Premiere im Burgtheater
 | 22.00 | [DINO's Apothecary Bar](https://www.google.com/maps/search/?api=1&query=DINO%27s+Apothecary+Bar%2C+Salzgries+19%2C+Wien) | Cocktailbar · Salzgries 19 · 10 Min. Uber | **[Reservieren](https://dinos.at)** |
 
 ## Samstag, 19. Dezember
+
+<p class="kicker">Kaiserstadt und Theater</p>
 
 <div class="pics"><img src="img/hofburg-nacht.jpg" alt="Hofburg, Michaelertor"><img src="img/prunksaal.jpg" alt="Prunksaal der Nationalbibliothek"></div>
 
@@ -60,6 +69,8 @@ Weihnachtsmärkte · *Die Physiker*, Premiere im Burgtheater
 | Kontakt | +43 1 51444 4545 · [burgtheater.at](https://www.burgtheater.at) |
 
 ## Sonntag, 20. Dezember
+
+<p class="kicker">Brunch und Heimreise</p>
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
