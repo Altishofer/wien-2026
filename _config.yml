@@ -1,0 +1,10 @@
+title: Wien · 18.–20. Dezember 2026
+description: Weihnachtsmärkte und die Premiere von Die Physiker im Burgtheater
+lang: de
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+exclude:
+  - README.md

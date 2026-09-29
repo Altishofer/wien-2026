@@ -1,0 +1,14 @@
+# Nur der öffentliche Plan und seine Bilder
+/*
+!/.gitignore
+!/reiseplan.md
+!/img/
+/img/*
+!/README.md
+!/img/rathausplatz.jpg
+!/_config.yml
+!/assets/
+!/img/graben-advent.jpg
+!/img/hofburg-nacht.jpg
+!/img/prunksaal.jpg
+!/img/burgtheater-nacht.jpg
