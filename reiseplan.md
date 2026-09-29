@@ -45,13 +45,13 @@ Weihnachtsmärkte · *Die Physiker*, Premiere im Burgtheater
 
 <img class="hero" src="img/burgtheater-nacht.jpg" alt="Burgtheater bei Nacht">
 
-| Zeit | |
+| Zeit | Ablauf |
 |---|---|
 | 18.30 | Foyers offen |
 | 18.45 | Buffet 1. Pausenfoyer offen |
 | 19.30 | Beginn |
 
-| | |
+| Theater | Details |
 |---|---|
 | Stück | Friedrich Dürrenmatt, *Die Physiker* · neuer Epilog von Wilke Weermann |
 | Garderobe | Pflicht für Mäntel · im Ticket enthalten |
@@ -95,16 +95,15 @@ Weihnachtsmärkte · *Die Physiker*, Premiere im Burgtheater
 
 ## Hotel
 
-| | |
-|---|---|
 | Hotel | [Boutique Hotel Columbia](https://www.google.com/maps/search/?api=1&query=Boutique+Hotel+Columbia%2C+Kochgasse+9%2C+1080+Wien) |
+|---|---|
 | Adresse | Kochgasse 9, 1080 Wien |
 | Check-in | Freitag, 14.00–22.00 |
 | Check-out | Sonntag, bis 11.00 |
 
 ## Wetter
 
-| | |
+| Wetter | Dezember |
 |---|---|
 | Temperatur | 3–5 °C |
 | Dunkel ab | ca. 16.00 |
