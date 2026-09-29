@@ -14,7 +14,8 @@ body { background: #fbfaf7; color: #1f1d1a; }
 .markdown-body img.hero { display: block; width: 100%; height: 220px; object-fit: cover; border-radius: 10px; margin: 8px 0 12px; }
 .markdown-body .pics { display: flex; gap: 8px; margin: 8px 0 12px; }
 .markdown-body .pics img { width: 50%; height: 220px; object-fit: cover; border-radius: 10px; }
-.markdown-body table { font-size: 14px; margin-bottom: 12px; }
+.markdown-body table { display: table; width: 100%; font-size: 14px; margin-bottom: 12px; }
+.markdown-body table thead:has(th:first-child:empty) { display: none; }
 .markdown-body table th, .markdown-body table td { border-color: #e4ddd1; vertical-align: top; padding: 6px 10px; }
 .markdown-body table th { background: #f1ece3; }
 .markdown-body table tr { background: #fff; }
@@ -24,4 +25,6 @@ body { background: #fbfaf7; color: #1f1d1a; }
 @media (max-width: 600px) {
   .markdown-body img.hero, .markdown-body .pics img { height: 160px; }
   .markdown-body table { font-size: 13px; }
+  .markdown-body table th, .markdown-body table td { padding: 5px 6px; }
+  .markdown-body table td strong a { padding: 2px 7px; font-size: 12px; }
 }
