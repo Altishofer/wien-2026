@@ -39,7 +39,7 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 8.30 | [Café Bräunerhof](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Br%C3%A4unerhof%2C+Stallburggasse+2%2C+Wien) | Frühstück · Stallburggasse 2 | **[Reservieren](https://cafebraeunerhof.at)** |
+| 9.00 | [Café Bräunerhof](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Br%C3%A4unerhof%2C+Stallburggasse+2%2C+Wien) | Frühstück · Stallburggasse 2 | reserviert, 2 Personen |
 | 10.00 | [Hofburg](https://www.google.com/maps/search/?api=1&query=Kaiserappartements+Sisi+Museum+Hofburg%2C+Michaelerkuppel%2C+Wien) | Kaiserappartements + Sisi Museum · ca. 2 Std. | **[Tickets](https://www.sisimuseum-hofburg.at/unsere-tickets/tickets-preise)** |
 | 12.00 | [Kohlmarkt → Graben → Peterskirche](https://www.google.com/maps/dir/?api=1&origin=Michaelerplatz%2C+Wien&destination=Peterskirche%2C+Petersplatz%2C+Wien&waypoints=Kohlmarkt%2C+Wien%7CGraben%2C+Wien&travelmode=walking) | Spaziergang · Kirche Eintritt frei | |
 | 13.00 | [Zum Schwarzen Kameel](https://www.google.com/maps/search/?api=1&query=Zum+Schwarzen+Kameel%2C+Bognergasse+5%2C+Wien) | Mittagessen · Restaurant 1. Stock · Bognergasse 5 | **[Reservieren](https://www.kameel.at)** |
