@@ -26,8 +26,9 @@ permalink: /
 | 16.25 | Ankunft Flughafen Wien | Zug + Bus → [Anreise](#anreise) | |
 | 17.50 | [Boutique Hotel Columbia](https://www.google.com/maps/search/?api=1&query=Boutique+Hotel+Columbia%2C+Kochgasse+9%2C+1080+Wien) | Kochgasse 9 · Check-in bis 22.00 | |
 | 18.05 | [Weihnachtsmarkt Rathausplatz](https://www.google.com/maps/search/?api=1&query=Christkindlmarkt+Rathausplatz%2C+Wien) | 8 Min. zu Fuss · bis 22.00 | |
-| 18.45 | [Weihnachtsmarkt Spittelberg](https://www.google.com/maps/search/?api=1&query=Weihnachtsmarkt+Spittelberg%2C+Spittelberggasse%2C+Wien) | Kunsthandwerk · 15 Min. zu Fuss · bis 21.30 | |
-| 20.00 | [TIAN Bistro](https://www.google.com/maps/search/?api=1&query=TIAN+Bistro%2C+Schrankgasse+4%2C+1070+Wien) | Abendessen · vegetarisch · Schrankgasse 4 | **[Reservieren](https://www.tian-bistro.com)** |
+| 18.35 | [Weihnachtsmarkt Spittelberg](https://www.google.com/maps/search/?api=1&query=Weihnachtsmarkt+Spittelberg%2C+Spittelberggasse%2C+Wien) | Kunsthandwerk · 15 Min. zu Fuss | |
+| 19.00 | [TIAN Bistro](https://www.google.com/maps/search/?api=1&query=TIAN+Bistro%2C+Schrankgasse+4%2C+1070+Wien) | Abendessen · vegetarisch · Schrankgasse 4 | reserviert, 2 Personen |
+| 20.45 | [Weihnachtsmarkt Spittelberg](https://www.google.com/maps/search/?api=1&query=Weihnachtsmarkt+Spittelberg%2C+Spittelberggasse%2C+Wien) | bis 21.30 | |
 | 22.00 | [DINO's Apothecary Bar](https://www.google.com/maps/search/?api=1&query=DINO%27s+Apothecary+Bar%2C+Salzgries+19%2C+Wien) | Cocktailbar · Salzgries 19 · 10 Min. Uber | **[Reservieren](https://dinos.at)** |
 
 ## Samstag, 19. Dezember
