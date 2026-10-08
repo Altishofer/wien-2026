@@ -105,19 +105,12 @@ permalink: /
 | Freitag | Flughafen Wien → Wien · 2 Personen | Zug, Bus, Tram, U-Bahn |
 | Sonntag | Wien → Flughafen Wien · 2 Personen | Zug, Bus, Tram, U-Bahn |
 
-## Hotel
+## Wichtig zu wissen
 
-| Hotel | [Boutique Hotel Columbia](https://www.google.com/maps/search/?api=1&query=Boutique+Hotel+Columbia%2C+Kochgasse+9%2C+1080+Wien) |
+| Was | Info |
 |---|---|
-| Adresse | Kochgasse 9, 1080 Wien |
-| Check-in | Freitag, 14.00–22.00 |
-| Check-out | Sonntag, bis 11.00 |
-
-## Wetter
-
-| Wetter | Dezember |
-|---|---|
-| Temperatur | 3–5 °C |
-| Dunkel ab | ca. 16.00 |
+| ÖBB-App | Vor der Reise installieren, Tickets darin kaufen · [iPhone](https://apps.apple.com/at/app/%C3%B6bb/id1041401604) · [Android](https://play.google.com/store/apps/details?id=at.oebb.ts) |
+| Check-in Hotel | Freitag bis 22.00 |
+| Check-out Hotel | Sonntag bis 11.00 |
 
 <sub>Bilder: Wikimedia Commons · Graben © VasuVR, CC BY 4.0 · Rathausplatz © Geolina163, CC BY-SA 4.0 · Hofburg © Rafa Esteve, CC BY-SA 4.0 · Prunksaal © Richard Hopkins, CC BY 2.0 · Burgtheater © Olgierd Schönwald, CC BY-SA 3.0</sub>
