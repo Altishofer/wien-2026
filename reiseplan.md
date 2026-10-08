@@ -82,8 +82,8 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 8.45 | Check-out | Gepäck im Hotel lassen | |
-| 9.00 | [Café Eiles](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eiles%2C+Josefst%C3%A4dter+Stra%C3%9Fe+2%2C+1080+Wien) | Frühstück · 6 Min. zu Fuss | **[Reservieren](https://www.cafe-eiles.at)** |
+| 8.30 | Check-out | Gepäck im Hotel lassen | |
+| 8.45 | [Café Eiles](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eiles%2C+Josefst%C3%A4dter+Stra%C3%9Fe+2%2C+1080+Wien) | Frühstück · 6 Min. zu Fuss · Loge | reserviert, 2 Personen |
 | 10.20 | Hotel | Gepäck holen | |
 | 10.30 | Uber zum Flughafen | ca. 35 Min. → [Anreise](#anreise) | |
 | 11.05 | Flughafen Wien | | |
