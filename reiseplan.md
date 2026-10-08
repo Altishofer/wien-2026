@@ -82,10 +82,11 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 8.40 | Check-out | Gepäck mitnehmen | |
-| 9.00 | [Ulrich](https://www.google.com/maps/search/?api=1&query=Ulrich%2C+St.-Ulrichs-Platz+1%2C+Wien) | Brunch · 5 Min. Uber | **[Reservieren](https://www.ulrichwien.at)** |
-| 10.15 | Abfahrt zum Flughafen | Tram + Zug → [Anreise](#anreise) | |
-| 11.00 | Flughafen Wien | | |
+| 8.45 | Check-out | Gepäck im Hotel lassen | |
+| 9.00 | [Café Eiles](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eiles%2C+Josefst%C3%A4dter+Stra%C3%9Fe+2%2C+1080+Wien) | Frühstück · 6 Min. zu Fuss | **[Reservieren](https://www.cafe-eiles.at)** |
+| 10.20 | Hotel | Gepäck holen | |
+| 10.30 | Uber zum Flughafen | ca. 35 Min. → [Anreise](#anreise) | |
+| 11.05 | Flughafen Wien | | |
 | 12.55 | Abflug | Ankunft Zürich 14.20 | |
 
 ## Anreise
@@ -97,20 +98,17 @@ permalink: /
 | 17.02 | 17.17 | Zug Flughafen → Wien Hauptbahnhof | Railjet, Intercity oder REX7 · nicht S7 |
 | ca. 17.20 | ca. 17.45 | Bus 13A → Laudongasse (Kochgasse) | ab Hauptbahnhof, Seite Wiedner Gürtel |
 
-**Sonntag · Ulrich → Flughafen Wien** · [Route](https://www.google.com/maps/dir/?api=1&origin=St.-Ulrichs-Platz+1%2C+1070+Wien&destination=Flughafen+Wien-Schwechat&travelmode=transit)
+**Sonntag · Hotel → Flughafen Wien** · [Route](https://www.google.com/maps/dir/?api=1&origin=Kochgasse+9%2C+1080+Wien&destination=Flughafen+Wien-Schwechat&travelmode=driving)
 
 | Ab | An | Verbindung | Info |
 |---|---|---|---|
-| 10.15 | 10.21 | zu Fuss → Ring/Volkstheater | |
-| ca. 10.22 | ca. 10.35 | Tram D → Hauptbahnhof Ost | |
-| 10.40 | 10.57 | Zug → Flughafen | nächster 10.53 |
+| 10.30 | ca. 11.05 | Uber ab Hotel | Ersatz: Bus 13A → Hauptbahnhof, Zug → Flughafen |
 
 **Tickets · ÖBB-App**
 
 | Fahrt | Ticket | Gilt für |
 |---|---|---|
 | Freitag | Flughafen Wien → Wien · 2 Personen | Zug, Bus, Tram, U-Bahn |
-| Sonntag | Wien → Flughafen Wien · 2 Personen | Zug, Bus, Tram, U-Bahn |
 
 ## Wichtig zu wissen
 
